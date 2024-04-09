@@ -6,7 +6,7 @@ Sou estudante de tecnologia e busco aprender e aprimorar cada vez mais meus conh
 ## 📚Educação:
 -Ensino Médio técnico em informática
 ## 📞Contato:
--📩Email: 
+-📩Email:larissavianapereira@gmail.com
 -📱telefone: (15)997583599
 ## Habilidades:
   <div style="display: inline_block"><br>
