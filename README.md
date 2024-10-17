@@ -1,7 +1,6 @@
 ## Olá, meu nome é Larissa Viana 👋
 Sou estudante de tecnologia e busco aprender e aprimorar cada vez mais meus conhecimentos.👩🏻‍💻
 ## Especialidades:
--💻Back-End <br>
 -💻Documentação de projetos <br>
 ## 📚Educação:
 -Ensino Médio técnico em informática
